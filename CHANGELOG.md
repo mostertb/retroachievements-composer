@@ -3,7 +3,7 @@
 - Added RetroAchievements::getGameInfo($gameId)
 - Added requirement for >= PHP 7.1
 - Updated unit tests
-- Improvments to RetroAchivements::__construct
+- Improvements to RetroAchievements::__construct
 - Made returned models immutable
 - Added project contributing guidelines
 

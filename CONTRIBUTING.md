@@ -47,4 +47,4 @@ Please note we have a Pull Request Process, please follow it in all your interac
 Thanks! :heart: :heart: :heart:
 
 
-CONTRIBUTING file inspired/based on [rails contrubiting](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
+CONTRIBUTING file inspired/based on [rails contributing](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
